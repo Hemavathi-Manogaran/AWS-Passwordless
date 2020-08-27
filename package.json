@@ -1,6 +1,6 @@
 {
   "main": "node_modules/expo/AppEntry.js",
-  "scripts": {
+    "scripts": {
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
@@ -8,6 +8,9 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@react-native-community/netinfo": "^5.9.4",
+    "aws-amplify": "^3.0.18",
+    "aws-amplify-react-native": "^4.2.1",
     "expo": "~38.0.1",
     "expo-status-bar": "^1.0.0",
     "react": "~16.11.0",
