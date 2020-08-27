@@ -4,8 +4,8 @@ import { StyleSheet, Text, TextInput, View, Button, TouchableHighlight } from 'r
 import Amplify, { Auth } from 'aws-amplify';
 Amplify.configure({
   Auth: {
-    userPoolId: 'us-east-2_1rgJuWFtE',
-    userPoolWebClientId: '4b14hsjl2belutuh101ss4upru',
+    userPoolId: '<PoolId>',
+    userPoolWebClientId: '<WebClientId>',
   }
 })
 
