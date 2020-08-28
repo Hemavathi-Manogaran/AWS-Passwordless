@@ -1,6 +1,6 @@
 # AWS-Passwordless
 
-This is sample application for creating SMS based login using the AWS Cognito.
+This is sample react native application for creating SMS based login using the AWS Cognito.
 
 1.Clone the project
 
